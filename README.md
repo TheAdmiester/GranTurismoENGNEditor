@@ -13,3 +13,7 @@ Each sample must be assigned HEVAG audio by clicking the Import VAG Data button 
 
 HEVAG audio is always saved in multiples of 28 samples, so where you could have a sound that is 2800 samples in length, a sound that is 2804 or 2809 samples long, etc. will be truncated down to 2800. Making these sounds loop seamlessly with no clicks or obvious patterns takes some very time consuming trial and error, and is unfortunately not something I or this tool can help with as it's a limitation of the format.
 
+## Licensing
+This tool is entirely free to use and share. If you've created mods using this tool then I would appreciate if this repo was linked in some form (e.g. credits or readme).<br/>
+Also not mandatory but it would be nice to share any mods you may make using this tool - I'm eager to see what people might make with it!
+
