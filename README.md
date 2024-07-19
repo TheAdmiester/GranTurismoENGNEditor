@@ -17,3 +17,5 @@ HEVAG audio is always saved in multiples of 28 samples, so where you could have 
 This tool is entirely free to use and share. If you've created mods using this tool then I would appreciate if this repo was linked in some form (e.g. credits or readme).<br/>
 Also not mandatory but it would be nice to share any mods you may make using this tool - I'm eager to see what people might make with it!
 
+## Credits/Thanks
+Special thanks to Xenn and Submaniac, whose early research into this file format formed the basis of this tool.
