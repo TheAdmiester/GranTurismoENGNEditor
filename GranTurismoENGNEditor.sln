@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GranTurismoENGNEditor", "GranTurismoENGNEditor\GranTurismoENGNEditor.csproj", "{DFFDE0C5-CF41-473F-B77F-6863BF26E08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFDE0C5-CF41-473F-B77F-6863BF26E08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFDE0C5-CF41-473F-B77F-6863BF26E08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFDE0C5-CF41-473F-B77F-6863BF26E08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFDE0C5-CF41-473F-B77F-6863BF26E08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91D6BDAE-DB65-47C0-9602-D56A57A0E444}
+	EndGlobalSection
+EndGlobal
